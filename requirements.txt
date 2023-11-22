@@ -1,4 +1,8 @@
-django
-djangorestframework
+django~=4.2.7
+djangorestframework~=3.14.0
 psycopg2
 djangorestframework-simplejwt
+django-timescaledb
+drf-yasg
+pytest
+model_bakery
